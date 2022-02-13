@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39eb4d4b-f5f8-47d3-950b-37166b9963dd" name="Default Changelist" comment="AD" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="244G8qLBD0nRlfPYZBgbe1nNr7S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/1.html" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Shelf.Project.Settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.1">
+    <configuration default="true" type="EMBER_TEST_CONFIGURATION" factoryName="Ember test configuration factory">
+      <option name="ENVIRONMENT" value="test" />
+      <option name="CONFIG_FILE" value="" />
+      <option name="HOST" value="" />
+      <option name="TEST_PORT" value="" />
+      <option name="FILTER" value="" />
+      <option name="FILTER_OPTION" value="ALL" />
+      <option name="MODULE" value="" />
+      <option name="WATCHER" value="" />
+      <option name="TESTEM_DEBUG" value="" />
+      <option name="TEST_PAGE" value="" />
+      <option name="PATH" value="" />
+      <option name="QUERY" value="" />
+      <option name="REPORTER" value="teamcity" />
+      <option name="LAUNCH" value="" />
+      <option name="LAUNCH_OPTION" value="DEFAULT" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="FirefoxRemoteDebugType" nameIsGenerated="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="1" type="JavascriptDebugType" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/rt/1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Firefox Remote.Unnamed" />
+      <item itemvalue="JavaScript Debug.1" />
+      <item itemvalue="Node.js.Unnamed" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39eb4d4b-f5f8-47d3-950b-37166b9963dd" name="Default Changelist" comment="" />
+      <created>1642882288399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642882288399</updated>
+      <workItem from="1642882289447" duration="1845000" />
+      <workItem from="1642885333856" duration="34973000" />
+      <workItem from="1643230169549" duration="129171000" />
+      <workItem from="1644436356716" duration="33100000" />
+      <workItem from="1644744773528" duration="5783000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="REGEX" value="true" />
+                  <option name="MATCH_CASE" value="true" />
+                </TextFilterSettings>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="828" y="140" width="1092" height="900" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1643230227618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="140" width="1092" height="900" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1643230227618" />
+    <state x="1201" y="226" key="#xdebugger.evaluate" timestamp="1642887418104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1201" y="226" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1642887418104" />
+    <state x="1058" y="100" key="CommitChangelistDialog2" timestamp="1644753012873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1058" y="100" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1644753012873" />
+    <state x="1045" y="103" width="775" height="840" key="DiffContextDialog" timestamp="1644753261226">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1045" y="103" width="775" height="840" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1644753261226" />
+    <state x="1201" y="275" key="FileChooserDialogImpl" timestamp="1643229591334">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1201" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1643229591334" />
+    <state width="1899" height="346" key="GridCell.Tab.0.bottom" timestamp="1644739564011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="346" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1644739564011" />
+    <state width="1899" height="346" key="GridCell.Tab.0.center" timestamp="1644739564010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="346" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1644739564010" />
+    <state width="1899" height="346" key="GridCell.Tab.0.left" timestamp="1644739564010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="346" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1644739564010" />
+    <state width="1899" height="346" key="GridCell.Tab.0.right" timestamp="1644739564011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="346" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1644739564011" />
+    <state width="1899" height="346" key="GridCell.Tab.1.bottom" timestamp="1644739564011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="346" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1644739564011" />
+    <state width="1899" height="346" key="GridCell.Tab.1.center" timestamp="1644739564011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="346" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1644739564011" />
+    <state width="1899" height="346" key="GridCell.Tab.1.left" timestamp="1644739564011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="346" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1644739564011" />
+    <state width="1899" height="346" key="GridCell.Tab.1.right" timestamp="1644739564011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="346" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1644739564011" />
+    <state width="1899" height="346" key="GridCell.Tab.2.bottom" timestamp="1644739564011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="346" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1644739564011" />
+    <state width="1899" height="346" key="GridCell.Tab.2.center" timestamp="1644739564011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="346" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1644739564011" />
+    <state width="1899" height="346" key="GridCell.Tab.2.left" timestamp="1644739564011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="346" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1644739564011" />
+    <state width="1899" height="346" key="GridCell.Tab.2.right" timestamp="1644739564011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="346" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1644739564011" />
+    <state x="1211" y="225" key="RollbackChangesDialog" timestamp="1644752983902">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1211" y="225" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1644752983902" />
+    <state x="836" y="148" key="SettingsEditor" timestamp="1644752905596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="836" y="148" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1644752905596" />
+    <state x="1280" y="436" key="VCS.ChangelistChooser" timestamp="1644752966494">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1280" y="436" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1644752966494" />
+    <state x="1024" y="256" key="Vcs.Push.Dialog.v2" timestamp="1644752934137">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1024" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1644752934137" />
+    <state x="1250" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1644752927596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1250" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1644752927596" />
+    <state x="992" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1642887376947">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="992" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1642887376947" />
+    <state x="1095" y="242" key="run.anything.popup" timestamp="1643802077884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1095" y="242" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1643802077884" />
+    <state x="1095" y="232" key="search.everywhere.popup" timestamp="1644751120891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1095" y="232" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1644751120891" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/rt$1.dat" NAME="1 Coverage Results" MODIFIED="1642886787676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
