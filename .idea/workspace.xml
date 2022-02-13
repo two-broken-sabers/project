@@ -5,7 +5,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39eb4d4b-f5f8-47d3-950b-37166b9963dd" name="Default Changelist" comment="AD" />
+    <list default="true" id="39eb4d4b-f5f8-47d3-950b-37166b9963dd" name="Default Changelist" comment="AD">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/1.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/1.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kd" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -180,10 +183,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1045" y="103" width="775" height="840" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1644753261226" />
-    <state x="1201" y="275" key="FileChooserDialogImpl" timestamp="1643229591334">
+    <state x="1201" y="275" key="FileChooserDialogImpl" timestamp="1644755757790">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1201" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1643229591334" />
+    <state x="1201" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1644755757790" />
     <state width="1899" height="346" key="GridCell.Tab.0.bottom" timestamp="1644739564011">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
